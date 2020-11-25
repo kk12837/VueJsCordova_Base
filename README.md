@@ -1,5 +1,5 @@
 # VueJsCordova_Base
-A empty VueJs and Cordova project - with some basic cordova plugins
+An empty VueJs and Cordova project - with some basic cordova plugins
 
 # Step to run this project
 
