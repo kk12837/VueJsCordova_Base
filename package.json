@@ -17,8 +17,6 @@
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "babel-preset-stage-2": "^6.24.1",
     "bootstrap": "^4.0.0",
-    "cordova-android": "^8.1.0",
-    "cordova-ios": "^6.1.1",
     "cordova-plugin-app-name": "^1.0.7",
     "cordova-plugin-screen-orientation": "^3.0.2",
     "cordova-plugin-transport-security": "^0.1.2",
@@ -119,9 +117,6 @@
         "APP_NAME": "VueJs Cordova"
       }
     },
-    "platforms": [
-      "ios",
-      "android"
-    ]
+    "platforms": []
   }
 }
