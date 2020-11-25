@@ -1,5 +1,5 @@
 # VueJsCordova_Base
-A empty VueJs and Cordova project
+An empty VueJs and Cordova project - with some basic cordova plugins
 
 # Step to run this project
 
@@ -32,3 +32,7 @@ A empty VueJs and Cordova project
 ## Steps to remove platforms / upgrade or downgrade the version of platforms
 1. cordova platform rm ios
 2. cordova platform rm android
+
+## install or uninstall cordova plugin
+- cordova plugin add <plugin name>
+- cordova plugin rm <plugin name>
