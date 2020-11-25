@@ -1,0 +1,74 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-app-name": {
+      "APP_NAME": "教圖 VR 通",
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-deeplinks": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-disable-ios11-statusbar": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-file-opener2": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-is-debug": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-safariviewcontroller": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-transport-security": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-wkwebviewxhrfix": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "phonegap-plugin-mobile-accessibility": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.hkep.chistvr"
+    }
+  }
+}
