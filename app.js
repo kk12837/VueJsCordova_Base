@@ -20,7 +20,6 @@ require('jquery.scrollto');
 require('jquery-ui-dist/jquery-ui');
 require('jquery-ui-touch-punch');
 require('jquery-touch-events');
-// window.xapi_config = require("./assets/json/xapi_config.json");
 
 require('./assets/js/bootstrap');
 require('./assets/js/lib/bootstrap.bundle.min');
